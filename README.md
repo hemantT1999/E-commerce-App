@@ -5,17 +5,17 @@ Follow these steps to get the application running locally.
 1. Clone the repository:
    
     git clone https://github.com/hemantT1999/E-commerce-App.git
-    ```
+   
 
 3. Navigate to the project directory:
    
     cd E-Medstores-App
-    ```
+    
 
 5. Install the dependencies:
    
     npm install
-    ```
+   
 ## Usage
 
 To start the application, run:
